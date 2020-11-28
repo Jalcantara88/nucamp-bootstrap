@@ -1,58 +1,46 @@
 body {
-    font-family: "Open Sans", sans-serif;
-}
+  font-family: "Open Sans", sans-serif; }
 
 h1, h2, h3 {
-    font-family: "Lobster", cursive;
-}
+  font-family: "Lobster", cursive; }
 
 h2 {
-    color: blue;
-}
+  color: #3046C5; }
 
 header h2 {
-    color: lightgray;
-}
+  color: lightcoral; }
 
-.siteFooter{
-    background-image: linear-gradient(pink, white);
-    padding: 20px 0;
-}
+.siteFooter {
+  background-image: linear-gradient(#901CAD, white);
+  padding: 20px 0; }
 
-.jumbotron{
-    padding: 30px;
-    background-image: linear-gradient(to right, lightblue, purple, red);
-    color: white;
-    margin: 0px;
-}
+.jumbotron {
+  padding: 30px;
+  background-image: linear-gradient(to right, lightcoral, #60106b, #901CAD);
+  color: white;
+  margin: 0px; }
 
-.row-content{
-    padding: 50px 0;
-    border-bottom: 1px ridge;
-    min-height: 200px;
-}
+.row-content {
+  padding: 50px 0;
+  border-bottom: 1px ridge;
+  min-height: 200px; }
 
-.navbar{
-    background-color: lightcoral;
-}
+.navbar {
+  background-color: lightcoral; }
 
-.tab-content{
-    border: 1px solid #ddd;
-    border-top: none;
-    padding: 10px;
-}
+.tab-content {
+  border: 1px solid #ddd;
+  border-top: none;
+  padding: 10px; }
 
 .carousel-caption {
-    background-color: rgba(0, 0, 0, .5)
-}
+  background-color: rgba(0, 0, 0, 0.5); }
 
 .carousel {
-    border: solid lightblue;
-}
+  border: solid #3046C5; }
 
 #carouselButton {
-    position: absolute;
-    right: 0;
-    bottom: 0;
-    z-index: 100;
-}
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  z-index: 100; }
